@@ -7,5 +7,5 @@ Sample X: 0
 Sample Y: 6
 Sample Gamma: pi/2
 
-https://user-images.githubusercontent.com/58850654/124520574-7510b300-de0a-11eb-8002-b6a81a74ed2d.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/58850654/124520660-b012e680-de0a-11eb-954d-00e07ab2855c.gif)
 
